@@ -1,0 +1,15 @@
+C:\MaXiMAA\Projects\C#\MonoAlphabeticCipher_Semestralka_Andrei\bin\Debug\net6.0\MonoAlphabeticCipher_Semestralka_Andrei.exe
+C:\MaXiMAA\Projects\C#\MonoAlphabeticCipher_Semestralka_Andrei\bin\Debug\net6.0\MonoAlphabeticCipher_Semestralka_Andrei.deps.json
+C:\MaXiMAA\Projects\C#\MonoAlphabeticCipher_Semestralka_Andrei\bin\Debug\net6.0\MonoAlphabeticCipher_Semestralka_Andrei.runtimeconfig.json
+C:\MaXiMAA\Projects\C#\MonoAlphabeticCipher_Semestralka_Andrei\bin\Debug\net6.0\MonoAlphabeticCipher_Semestralka_Andrei.dll
+C:\MaXiMAA\Projects\C#\MonoAlphabeticCipher_Semestralka_Andrei\bin\Debug\net6.0\MonoAlphabeticCipher_Semestralka_Andrei.pdb
+C:\MaXiMAA\Projects\C#\MonoAlphabeticCipher_Semestralka_Andrei\obj\Debug\net6.0\MonoAlphabeticCipher_Semestralka_Andrei.csproj.AssemblyReference.cache
+C:\MaXiMAA\Projects\C#\MonoAlphabeticCipher_Semestralka_Andrei\obj\Debug\net6.0\MonoAlphabeticCipher_Semestralka_Andrei.GeneratedMSBuildEditorConfig.editorconfig
+C:\MaXiMAA\Projects\C#\MonoAlphabeticCipher_Semestralka_Andrei\obj\Debug\net6.0\MonoAlphabeticCipher_Semestralka_Andrei.AssemblyInfoInputs.cache
+C:\MaXiMAA\Projects\C#\MonoAlphabeticCipher_Semestralka_Andrei\obj\Debug\net6.0\MonoAlphabeticCipher_Semestralka_Andrei.AssemblyInfo.cs
+C:\MaXiMAA\Projects\C#\MonoAlphabeticCipher_Semestralka_Andrei\obj\Debug\net6.0\MonoAlphabeticCipher_Semestralka_Andrei.csproj.CoreCompileInputs.cache
+C:\MaXiMAA\Projects\C#\MonoAlphabeticCipher_Semestralka_Andrei\obj\Debug\net6.0\MonoAlphabeticCipher_Semestralka_Andrei.dll
+C:\MaXiMAA\Projects\C#\MonoAlphabeticCipher_Semestralka_Andrei\obj\Debug\net6.0\refint\MonoAlphabeticCipher_Semestralka_Andrei.dll
+C:\MaXiMAA\Projects\C#\MonoAlphabeticCipher_Semestralka_Andrei\obj\Debug\net6.0\MonoAlphabeticCipher_Semestralka_Andrei.pdb
+C:\MaXiMAA\Projects\C#\MonoAlphabeticCipher_Semestralka_Andrei\obj\Debug\net6.0\MonoAlphabeticCipher_Semestralka_Andrei.genruntimeconfig.cache
+C:\MaXiMAA\Projects\C#\MonoAlphabeticCipher_Semestralka_Andrei\obj\Debug\net6.0\ref\MonoAlphabeticCipher_Semestralka_Andrei.dll

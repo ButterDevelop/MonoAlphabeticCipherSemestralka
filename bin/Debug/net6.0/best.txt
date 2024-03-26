@@ -1,0 +1,1 @@
+98,36% -> a:d,b:l,c:k,d:m,e:b,f:n,g:a,h:o,i:i,j:p,k:h,l:e,m:q,n:j,o:r,p:s,q:t,r:c,s:u,t:f,u:v,v:w,w:x,x:y,y:z,z:g
